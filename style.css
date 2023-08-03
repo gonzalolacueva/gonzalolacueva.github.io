@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(145, 197, 197);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+
+ul {
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-right: 2em;
+}
+
+#chiquito {
+    color: rgb(113, 156, 156);
+    font-size: small;
+}
+
+#llamativo {
+    background-color: rgb(245, 116, 35);
+    font-weight: bold;
+    padding: 0 4px 0 4px;
+}
+
+.parrafo {
+    font-size: 2em;
+    text-align: justify;
+    padding-right: 2em;
+}
+
+.container {
+    padding-left: 2em;
+}
+
+.linda {
+    border-style: dashed;
+    border-color: rgb(13, 55, 93);
+    border-width: 2px 0 2px 0;
+    margin: 1em 2em;
+}
+
+img {
+    float: left;
+    width: 480px;
+}
